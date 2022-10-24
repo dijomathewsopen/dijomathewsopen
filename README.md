@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dijomathewsopen
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning ...Typescript
+- 🌱 I’m currently learning ...Typescript, NestJS, Kafka.
 
 <!---
 dijomathewsopen/dijomathewsopen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
