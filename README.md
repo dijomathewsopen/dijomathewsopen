@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dijomathewsopen
-- 👀 I’m interested in Technology
+- 👀 I’m interested in Technology and Banking.
 - 🌱 I’m currently learning ...Typescript, NestJS, Kafka.
 
 <!---
